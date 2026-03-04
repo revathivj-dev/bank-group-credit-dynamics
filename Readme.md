@@ -22,20 +22,18 @@ Bank Group Credit Dynamics: Regional, Sectoral, and Temporal Analysis examines h
 
 ### Methods used
 
-```
 * Excel and power query is used to clean and transform the raw dataset. 
 * Intial dataset contains 10 years of data. 2 years of data is taken for this analysis.
-*Analysis includes statistical, Diagnosis and Predictive.
-*Pivot tables and Scenario managers are used for analysis.
-*Power BI is used for visualization and Dashboard creation.
+* Analysis includes statistical, Diagnosis and Predictive.
+* Pivot tables and Scenario managers are used for analysis.
+* Power BI is used for visualization and Dashboard creation.
 
 ![alt text](image.png)
 
-```
 
 ## Content
 
-The Dataset is maintained by India Data Portal (ISP) and is provided by RBI(Primary source) captures information on the credit extended by scheduled commercial banks in India to various population groups, bank groups and occupation groups. 
+The Raw Dataset is maintained by India Data Portal (ISP) and is provided by RBI(Primary source) captures information on the credit extended by scheduled commercial banks in India to various population groups, bank groups and occupation groups. 
 ```
 source link: https://indiadataportal.com/p/reserve-bank-of-india/r/rbi-groupwise_credit_by_scbs-dt-yr-vvi 
 ```
